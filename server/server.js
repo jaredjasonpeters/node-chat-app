@@ -8,7 +8,7 @@ const app = express();
 
 
 
-app.use(express.static(publicPath);
+app.use(express.static(publicPath));
 
 
 
